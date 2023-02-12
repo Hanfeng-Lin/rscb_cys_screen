@@ -1,0 +1,2558 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-04-01" modified="2022-12-14" version="234" xmlns="http://uniprot.org/uniprot">
+  <accession>P29466</accession>
+  <accession>B5MDZ1</accession>
+  <accession>Q53EY6</accession>
+  <accession>Q6DMQ1</accession>
+  <accession>Q6GSS3</accession>
+  <accession>Q6PI75</accession>
+  <accession>Q9UCN3</accession>
+  <name>CASP1_HUMAN</name>
+  <protein>
+    <recommendedName>
+      <fullName>Caspase-1</fullName>
+      <shortName>CASP-1</shortName>
+      <ecNumber evidence="9">3.4.22.36</ecNumber>
+    </recommendedName>
+    <alternativeName>
+      <fullName evidence="26">Interleukin-1 beta convertase</fullName>
+      <shortName evidence="26">IL-1BC</shortName>
+    </alternativeName>
+    <alternativeName>
+      <fullName evidence="24 26">Interleukin-1 beta-converting enzyme</fullName>
+      <shortName evidence="24 26">ICE</shortName>
+      <shortName evidence="24 26">IL-1 beta-converting enzyme</shortName>
+    </alternativeName>
+    <alternativeName>
+      <fullName>p45</fullName>
+    </alternativeName>
+    <component>
+      <recommendedName>
+        <fullName evidence="29">Caspase-1 subunit p20</fullName>
+      </recommendedName>
+    </component>
+    <component>
+      <recommendedName>
+        <fullName evidence="29">Caspase-1 subunit p10</fullName>
+      </recommendedName>
+    </component>
+  </protein>
+  <gene>
+    <name type="primary">CASP1</name>
+    <name type="synonym">IL1BC</name>
+    <name type="synonym">IL1BCE</name>
+  </gene>
+  <organism>
+    <name type="scientific">Homo sapiens</name>
+    <name type="common">Human</name>
+    <dbReference type="NCBI Taxonomy" id="9606"/>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Primates</taxon>
+      <taxon>Haplorrhini</taxon>
+      <taxon>Catarrhini</taxon>
+      <taxon>Hominidae</taxon>
+      <taxon>Homo</taxon>
+    </lineage>
+  </organism>
+  <reference key="1">
+    <citation type="journal article" date="1992" name="Nature" volume="356" first="768" last="774">
+      <title>A novel heterodimeric cysteine protease is required for interleukin-1 beta processing in monocytes.</title>
+      <authorList>
+        <person name="Thornberry N.A."/>
+        <person name="Bull H.G."/>
+        <person name="Calaycay J.R."/>
+        <person name="Chapman K.T."/>
+        <person name="Howard A.D."/>
+        <person name="Kostura M.J."/>
+        <person name="Miller D.K."/>
+        <person name="Molineaux S.M."/>
+        <person name="Weidner J.R."/>
+        <person name="Aunins J."/>
+        <person name="Elliston K.O."/>
+        <person name="Ayala J.M."/>
+        <person name="Casano F.J."/>
+        <person name="Chin J."/>
+        <person name="Ding G.J.-F."/>
+        <person name="Egger L.A."/>
+        <person name="Gaffney E.P."/>
+        <person name="Limjuco G."/>
+        <person name="Palyha O.C."/>
+        <person name="Raju M."/>
+        <person name="Rolando A.M."/>
+        <person name="Salley J.P."/>
+        <person name="Yamin T.-T."/>
+        <person name="Lee T.D."/>
+        <person name="Shively J.E."/>
+        <person name="McCross M."/>
+        <person name="Mumford R.A."/>
+        <person name="Schmidt J.A."/>
+        <person name="Tocci M.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="1574116"/>
+      <dbReference type="DOI" id="10.1038/356768a0"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM ALPHA)</scope>
+    <scope>PARTIAL PROTEIN SEQUENCE</scope>
+    <scope>ACTIVE SITE</scope>
+    <scope>FUNCTION</scope>
+    <scope>CATALYTIC ACTIVITY</scope>
+  </reference>
+  <reference key="2">
+    <citation type="journal article" date="1992" name="Science" volume="256" first="97" last="100">
+      <title>Molecular cloning of the interleukin-1 beta converting enzyme.</title>
+      <authorList>
+        <person name="Cerretti D.P."/>
+        <person name="Kozlosky C.J."/>
+        <person name="Mosley B."/>
+        <person name="Nelson N."/>
+        <person name="van Ness K."/>
+        <person name="Greenstreet T.A."/>
+        <person name="March C.J."/>
+        <person name="Kronheim S.R."/>
+        <person name="Druck T."/>
+        <person name="Cannizzaro L.A."/>
+        <person name="Huebner K."/>
+        <person name="Black R.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="1373520"/>
+      <dbReference type="DOI" id="10.1126/science.1373520"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM ALPHA)</scope>
+    <scope>PROTEIN SEQUENCE OF 120-142</scope>
+  </reference>
+  <reference key="3">
+    <citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="4312" last="4317">
+      <title>Cloning and expression of four novel isoforms of human interleukin-1 beta converting enzyme with different apoptotic activities.</title>
+      <authorList>
+        <person name="Alnemri E.S."/>
+        <person name="Fernandes-Alnemri T."/>
+        <person name="Litwack G."/>
+      </authorList>
+      <dbReference type="PubMed" id="7876192"/>
+      <dbReference type="DOI" id="10.1074/jbc.270.9.4312"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS BETA; DELTA; EPSILON AND GAMMA)</scope>
+    <scope>ALTERNATIVE SPLICING</scope>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="4">
+    <citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+      <authorList>
+        <person name="Totoki Y."/>
+        <person name="Toyoda A."/>
+        <person name="Takeda T."/>
+        <person name="Sakaki Y."/>
+        <person name="Tanaka A."/>
+        <person name="Yokoyama S."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA)</scope>
+  </reference>
+  <reference key="5">
+    <citation type="journal article" date="2006" name="Nature" volume="440" first="497" last="500">
+      <title>Human chromosome 11 DNA sequence and analysis including novel gene identification.</title>
+      <authorList>
+        <person name="Taylor T.D."/>
+        <person name="Noguchi H."/>
+        <person name="Totoki Y."/>
+        <person name="Toyoda A."/>
+        <person name="Kuroki Y."/>
+        <person name="Dewar K."/>
+        <person name="Lloyd C."/>
+        <person name="Itoh T."/>
+        <person name="Takeda T."/>
+        <person name="Kim D.-W."/>
+        <person name="She X."/>
+        <person name="Barlow K.F."/>
+        <person name="Bloom T."/>
+        <person name="Bruford E."/>
+        <person name="Chang J.L."/>
+        <person name="Cuomo C.A."/>
+        <person name="Eichler E."/>
+        <person name="FitzGerald M.G."/>
+        <person name="Jaffe D.B."/>
+        <person name="LaButti K."/>
+        <person name="Nicol R."/>
+        <person name="Park H.-S."/>
+        <person name="Seaman C."/>
+        <person name="Sougnez C."/>
+        <person name="Yang X."/>
+        <person name="Zimmer A.R."/>
+        <person name="Zody M.C."/>
+        <person name="Birren B.W."/>
+        <person name="Nusbaum C."/>
+        <person name="Fujiyama A."/>
+        <person name="Hattori M."/>
+        <person name="Rogers J."/>
+        <person name="Lander E.S."/>
+        <person name="Sakaki Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="16554811"/>
+      <dbReference type="DOI" id="10.1038/nature04632"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+  </reference>
+  <reference key="6">
+    <citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+      <title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+      <authorList>
+        <consortium name="The MGC Project Team"/>
+      </authorList>
+      <dbReference type="PubMed" id="15489334"/>
+      <dbReference type="DOI" id="10.1101/gr.2596504"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM GAMMA)</scope>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 4-404 (ISOFORM BETA)</scope>
+    <source>
+      <tissue>Testis</tissue>
+    </source>
+  </reference>
+  <reference key="7">
+    <citation type="journal article" date="2004" name="Genomics" volume="84" first="587" last="591">
+      <title>Caspase-1 zeta, a new splice variant of caspase-1 gene.</title>
+      <authorList>
+        <person name="Feng Q."/>
+        <person name="Li P."/>
+        <person name="Leung P.C.K."/>
+        <person name="Auersperg N."/>
+      </authorList>
+      <dbReference type="PubMed" id="15498465"/>
+      <dbReference type="DOI" id="10.1016/j.ygeno.2004.06.005"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] OF 32-404 (ISOFORM ALPHA)</scope>
+    <scope>FUNCTION</scope>
+    <scope>MUTAGENESIS OF CYS-285</scope>
+    <scope>ALTERNATIVE SPLICING</scope>
+    <scope>TISSUE SPECIFICITY</scope>
+  </reference>
+  <reference key="8">
+    <citation type="journal article" date="1992" name="Arch. Biochem. Biophys." volume="296" first="698" last="703">
+      <title>Purification of interleukin-1 beta converting enzyme, the protease that cleaves the interleukin-1 beta precursor.</title>
+      <authorList>
+        <person name="Kronheim S.R."/>
+        <person name="Mumma A."/>
+        <person name="Greenstreet T."/>
+        <person name="Glackin P.J."/>
+        <person name="Van Ness K."/>
+        <person name="March C.J."/>
+        <person name="Black R.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="1321594"/>
+      <dbReference type="DOI" id="10.1016/0003-9861(92)90629-b"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 120-142</scope>
+  </reference>
+  <reference key="9">
+    <citation type="journal article" date="1992" name="Cell" volume="69" first="597" last="604">
+      <title>Viral inhibition of inflammation: cowpox virus encodes an inhibitor of the interleukin-1 beta converting enzyme.</title>
+      <authorList>
+        <person name="Ray C.A."/>
+        <person name="Black R.A."/>
+        <person name="Kronheim S.R."/>
+        <person name="Greenstreet T.A."/>
+        <person name="Sleath P.R."/>
+        <person name="Salvesen G.S."/>
+        <person name="Pickup D.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="1339309"/>
+      <dbReference type="DOI" id="10.1016/0092-8674(92)90223-y"/>
+    </citation>
+    <scope>ACTIVITY REGULATION</scope>
+  </reference>
+  <reference key="10">
+    <citation type="journal article" date="2000" name="Cell" volume="103" first="99" last="111">
+      <title>ICEBERG: a novel inhibitor of interleukin-1beta generation.</title>
+      <authorList>
+        <person name="Humke E.W."/>
+        <person name="Shriver S.K."/>
+        <person name="Starovasnik M.A."/>
+        <person name="Fairbrother W.J."/>
+        <person name="Dixit V.M."/>
+      </authorList>
+      <dbReference type="PubMed" id="11051551"/>
+      <dbReference type="DOI" id="10.1016/s0092-8674(00)00108-2"/>
+    </citation>
+    <scope>INTERACTION WITH CARD18</scope>
+  </reference>
+  <reference key="11">
+    <citation type="journal article" date="2004" name="Immunity" volume="20" first="319" last="325">
+      <title>NALP3 forms an IL-1beta-processing inflammasome with increased activity in Muckle-Wells autoinflammatory disorder.</title>
+      <authorList>
+        <person name="Agostini L."/>
+        <person name="Martinon F."/>
+        <person name="Burns K."/>
+        <person name="McDermott M.F."/>
+        <person name="Hawkins P.N."/>
+        <person name="Tschopp J."/>
+      </authorList>
+      <dbReference type="PubMed" id="15030775"/>
+      <dbReference type="DOI" id="10.1016/s1074-7613(04)00046-9"/>
+    </citation>
+    <scope>COMPONENT OF THE INFLAMMASOME</scope>
+  </reference>
+  <reference key="12">
+    <citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="51729" last="51738">
+      <title>INCA, a novel human caspase recruitment domain protein that inhibits interleukin-1beta generation.</title>
+      <authorList>
+        <person name="Lamkanfi M."/>
+        <person name="Denecker G."/>
+        <person name="Kalai M."/>
+        <person name="D'hondt K."/>
+        <person name="Meeus A."/>
+        <person name="Declercq W."/>
+        <person name="Saelens X."/>
+        <person name="Vandenabeele P."/>
+      </authorList>
+      <dbReference type="PubMed" id="15383541"/>
+      <dbReference type="DOI" id="10.1074/jbc.m407891200"/>
+    </citation>
+    <scope>INTERACTION WITH CARD17P</scope>
+  </reference>
+  <reference key="13">
+    <citation type="journal article" date="2004" name="Oncogene" volume="23" first="7552" last="7560">
+      <title>A novel isoform of pro-interleukin-18 expressed in ovarian tumors is resistant to caspase-1 and -4 processing.</title>
+      <authorList>
+        <person name="Gaggero A."/>
+        <person name="De Ambrosis A."/>
+        <person name="Mezzanzanica D."/>
+        <person name="Piazza T."/>
+        <person name="Rubartelli A."/>
+        <person name="Figini M."/>
+        <person name="Canevari S."/>
+        <person name="Ferrini S."/>
+      </authorList>
+      <dbReference type="PubMed" id="15326478"/>
+      <dbReference type="DOI" id="10.1038/sj.onc.1208036"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="14">
+    <citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="9982" last="9987">
+      <title>The B30.2 domain of pyrin, the familial Mediterranean fever protein, interacts directly with caspase-1 to modulate IL-1beta production.</title>
+      <authorList>
+        <person name="Chae J.J."/>
+        <person name="Wood G."/>
+        <person name="Masters S.L."/>
+        <person name="Richard K."/>
+        <person name="Park G."/>
+        <person name="Smith B.J."/>
+        <person name="Kastner D.L."/>
+      </authorList>
+      <dbReference type="PubMed" id="16785446"/>
+      <dbReference type="DOI" id="10.1073/pnas.0602081103"/>
+    </citation>
+    <scope>INTERACTION WITH MEFV</scope>
+  </reference>
+  <reference key="15">
+    <citation type="journal article" date="2010" name="Blood" volume="115" first="3531" last="3540">
+      <title>Cleavage of sphingosine kinase 2 by caspase-1 provokes its release from apoptotic cells.</title>
+      <authorList>
+        <person name="Weigert A."/>
+        <person name="Cremer S."/>
+        <person name="Schmidt M.V."/>
+        <person name="von Knethen A."/>
+        <person name="Angioni C."/>
+        <person name="Geisslinger G."/>
+        <person name="Bruene B."/>
+      </authorList>
+      <dbReference type="PubMed" id="20197547"/>
+      <dbReference type="DOI" id="10.1182/blood-2009-10-243444"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+    <scope>MUTAGENESIS OF CYS-285</scope>
+  </reference>
+  <reference key="16">
+    <citation type="journal article" date="2010" name="Cell. Microbiol." volume="12" first="1046" last="1063">
+      <title>Mycobacterium tuberculosis protein ESAT-6 is a potent activator of the NLRP3/ASC inflammasome.</title>
+      <authorList>
+        <person name="Mishra B.B."/>
+        <person name="Moura-Alves P."/>
+        <person name="Sonawane A."/>
+        <person name="Hacohen N."/>
+        <person name="Griffiths G."/>
+        <person name="Moita L.F."/>
+        <person name="Anes E."/>
+      </authorList>
+      <dbReference type="PubMed" id="20148899"/>
+      <dbReference type="DOI" id="10.1111/j.1462-5822.2010.01450.x"/>
+    </citation>
+    <scope>INDUCTION BY M.TUBERCULOSIS</scope>
+    <source>
+      <tissue>Macrophage</tissue>
+    </source>
+  </reference>
+  <reference key="17">
+    <citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+      <title>Initial characterization of the human central proteome.</title>
+      <authorList>
+        <person name="Burkard T.R."/>
+        <person name="Planyavsky M."/>
+        <person name="Kaupe I."/>
+        <person name="Breitwieser F.P."/>
+        <person name="Buerckstuemmer T."/>
+        <person name="Bennett K.L."/>
+        <person name="Superti-Furga G."/>
+        <person name="Colinge J."/>
+      </authorList>
+      <dbReference type="PubMed" id="21269460"/>
+      <dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+    </citation>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <reference key="18">
+    <citation type="journal article" date="2012" name="Mol. Cell" volume="46" first="200" last="211">
+      <title>Inflammasome-activated caspase 7 cleaves PARP1 to enhance the expression of a subset of NF-kappaB target genes.</title>
+      <authorList>
+        <person name="Erener S."/>
+        <person name="Petrilli V."/>
+        <person name="Kassner I."/>
+        <person name="Minotti R."/>
+        <person name="Castillo R."/>
+        <person name="Santoro R."/>
+        <person name="Hassa P.O."/>
+        <person name="Tschopp J."/>
+        <person name="Hottiger M.O."/>
+      </authorList>
+      <dbReference type="PubMed" id="22464733"/>
+      <dbReference type="DOI" id="10.1016/j.molcel.2012.02.016"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>CATALYTIC ACTIVITY</scope>
+  </reference>
+  <reference key="19">
+    <citation type="journal article" date="2015" name="Nature" volume="526" first="660" last="665">
+      <title>Cleavage of GSDMD by inflammatory caspases determines pyroptotic cell death.</title>
+      <authorList>
+        <person name="Shi J."/>
+        <person name="Zhao Y."/>
+        <person name="Wang K."/>
+        <person name="Shi X."/>
+        <person name="Wang Y."/>
+        <person name="Huang H."/>
+        <person name="Zhuang Y."/>
+        <person name="Cai T."/>
+        <person name="Wang F."/>
+        <person name="Shao F."/>
+      </authorList>
+      <dbReference type="PubMed" id="26375003"/>
+      <dbReference type="DOI" id="10.1038/nature15514"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>CATALYTIC ACTIVITY</scope>
+  </reference>
+  <reference key="20">
+    <citation type="journal article" date="2017" name="Immunity" volume="46" first="393" last="404">
+      <title>Inflammasome activation triggers caspase-1-mediated cleavage of cGAS to regulate responses to DNA virus infection.</title>
+      <authorList>
+        <person name="Wang Y."/>
+        <person name="Ning X."/>
+        <person name="Gao P."/>
+        <person name="Wu S."/>
+        <person name="Sha M."/>
+        <person name="Lv M."/>
+        <person name="Zhou X."/>
+        <person name="Gao J."/>
+        <person name="Fang R."/>
+        <person name="Meng G."/>
+        <person name="Su X."/>
+        <person name="Jiang Z."/>
+      </authorList>
+      <dbReference type="PubMed" id="28314590"/>
+      <dbReference type="DOI" id="10.1016/j.immuni.2017.02.011"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="21">
+    <citation type="journal article" date="2018" name="EMBO J." volume="37">
+      <title>Zika virus elicits inflammation to evade antiviral response by cleaving cGAS via NS1-caspase-1 axis.</title>
+      <authorList>
+        <person name="Zheng Y."/>
+        <person name="Liu Q."/>
+        <person name="Wu Y."/>
+        <person name="Ma L."/>
+        <person name="Zhang Z."/>
+        <person name="Liu T."/>
+        <person name="Jin S."/>
+        <person name="She Y."/>
+        <person name="Li Y.P."/>
+        <person name="Cui J."/>
+      </authorList>
+      <dbReference type="PubMed" id="30065070"/>
+      <dbReference type="DOI" id="10.15252/embj.201899347"/>
+    </citation>
+    <scope>UBIQUITINATION AT LYS-134</scope>
+  </reference>
+  <reference key="22">
+    <citation type="journal article" date="2019" name="Nat. Immunol." volume="20" first="276" last="287">
+      <title>SERPINB1-mediated checkpoint of inflammatory caspase activation.</title>
+      <authorList>
+        <person name="Choi Y.J."/>
+        <person name="Kim S."/>
+        <person name="Choi Y."/>
+        <person name="Nielsen T.B."/>
+        <person name="Yan J."/>
+        <person name="Lu A."/>
+        <person name="Ruan J."/>
+        <person name="Lee H.R."/>
+        <person name="Wu H."/>
+        <person name="Spellberg B."/>
+        <person name="Jung J.U."/>
+      </authorList>
+      <dbReference type="PubMed" id="30692621"/>
+      <dbReference type="DOI" id="10.1038/s41590-018-0303-z"/>
+    </citation>
+    <scope>INTERACTION WITH SERPINB1</scope>
+  </reference>
+  <reference key="23">
+    <citation type="journal article" date="2020" name="Life. Sci Alliance" volume="3">
+      <title>Caspase-1 interdomain linker cleavage is required for pyroptosis.</title>
+      <authorList>
+        <person name="Ball D.P."/>
+        <person name="Taabazuing C.Y."/>
+        <person name="Griswold A.R."/>
+        <person name="Orth E.L."/>
+        <person name="Rao S.D."/>
+        <person name="Kotliar I.B."/>
+        <person name="Vostal L.E."/>
+        <person name="Johnson D.C."/>
+        <person name="Bachovchin D.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="32051255"/>
+      <dbReference type="DOI" id="10.26508/lsa.202000664"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>INTERACTION WITH CARD8</scope>
+    <scope>PROTEOLYTIC CLEAVAGE</scope>
+    <scope>MUTAGENESIS OF CYS-285; ASP-297 AND 315-ASP-ASP-316</scope>
+  </reference>
+  <reference key="24">
+    <citation type="journal article" date="1994" name="Cell" volume="78" first="343" last="352">
+      <title>Crystal structure of the cysteine protease interleukin-1 beta-converting enzyme: a (p20/p10)2 homodimer.</title>
+      <authorList>
+        <person name="Walker N.P.C."/>
+        <person name="Talanian R.V."/>
+        <person name="Brady K.D."/>
+        <person name="Dang L.C."/>
+        <person name="Bump N.J."/>
+        <person name="Ferenz C.R."/>
+        <person name="Franklin S."/>
+        <person name="Ghayur T."/>
+        <person name="Hackett M.C."/>
+        <person name="Hammill L.D."/>
+        <person name="Herzog L."/>
+        <person name="Hugunin M."/>
+        <person name="Houy W."/>
+        <person name="Mankovich J.A."/>
+        <person name="McGuiness L."/>
+        <person name="Orlewicz E."/>
+        <person name="Paskind M."/>
+        <person name="Pratt C.A."/>
+        <person name="Reis P."/>
+        <person name="Summani A."/>
+        <person name="Terranova M."/>
+        <person name="Welch J.P."/>
+        <person name="Xiong L."/>
+        <person name="Moeller A."/>
+        <person name="Tracey D.E."/>
+        <person name="Kamen R."/>
+        <person name="Wong W.W."/>
+      </authorList>
+      <dbReference type="PubMed" id="8044845"/>
+      <dbReference type="DOI" id="10.1016/0092-8674(94)90303-4"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+    <scope>SUBUNIT</scope>
+  </reference>
+  <reference key="25">
+    <citation type="journal article" date="1997" name="Chem. Biol." volume="4" first="149" last="155">
+      <title>A combinatorial approach for determining protease specificities: application to interleukin-1beta converting enzyme (ICE).</title>
+      <authorList>
+        <person name="Rano T.A."/>
+        <person name="Timkey T."/>
+        <person name="Peterson E.P."/>
+        <person name="Rotonda J."/>
+        <person name="Nicholson D.W."/>
+        <person name="Becker J.W."/>
+        <person name="Chapman K.T."/>
+        <person name="Thornberry N.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="9190289"/>
+      <dbReference type="DOI" id="10.1016/s1074-5521(97)90258-1"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (2.73 ANGSTROMS)</scope>
+  </reference>
+  <reference key="26">
+    <citation type="journal article" date="1999" name="Chem. Pharm. Bull." volume="47" first="11" last="21">
+      <title>Peptide based interleukin-1 beta converting enzyme (ICE) inhibitors: synthesis, structure activity relationships and crystallographic study of the ICE-inhibitor complex.</title>
+      <authorList>
+        <person name="Okamoto Y."/>
+        <person name="Anan H."/>
+        <person name="Nakai E."/>
+        <person name="Morihira K."/>
+        <person name="Yonetoku Y."/>
+        <person name="Kurihara H."/>
+        <person name="Sakashita H."/>
+        <person name="Terai Y."/>
+        <person name="Takeuchi M."/>
+        <person name="Shibanuma T."/>
+        <person name="Isomura Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="9987822"/>
+      <dbReference type="DOI" id="10.1248/cpb.47.11"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) IN COMPLEX WITH INHIBITORS</scope>
+  </reference>
+  <reference key="27">
+    <citation type="journal article" date="2004" name="Structure" volume="12" first="1361" last="1371">
+      <title>Crystal structures of a ligand-free and malonate-bound human caspase-1: implications for the mechanism of substrate binding.</title>
+      <authorList>
+        <person name="Romanowski M.J."/>
+        <person name="Scheer J.M."/>
+        <person name="O'Brien T."/>
+        <person name="McDowell R.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="15296730"/>
+      <dbReference type="DOI" id="10.1016/j.str.2004.05.010"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 120-404 OF MUTANT ALA-285</scope>
+  </reference>
+  <reference evidence="35" key="28">
+    <citation type="journal article" date="2020" name="Cell" volume="180" first="941" last="955">
+      <title>Structural mechanism for GSDMD targeting by autoprocessed caspases in pyroptosis.</title>
+      <authorList>
+        <person name="Wang K."/>
+        <person name="Sun Q."/>
+        <person name="Zhong X."/>
+        <person name="Zeng M."/>
+        <person name="Zeng H."/>
+        <person name="Shi X."/>
+        <person name="Li Z."/>
+        <person name="Wang Y."/>
+        <person name="Zhao Q."/>
+        <person name="Shao F."/>
+        <person name="Ding J."/>
+      </authorList>
+      <dbReference type="PubMed" id="32109412"/>
+      <dbReference type="DOI" id="10.1016/j.cell.2020.02.002"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (2.79 ANGSTROMS) OF 131-297 AND 317-404 IN COMPLEX WITH GSDMD</scope>
+    <scope>FUNCTION</scope>
+    <scope>SUBUNIT</scope>
+    <scope>PROTEOLYTIC CLEAVAGE</scope>
+    <scope>MUTAGENESIS OF CYS-285; TRP-294 AND ILE-318</scope>
+  </reference>
+  <reference evidence="36" key="29">
+    <citation type="journal article" date="2020" name="Immunity" volume="53" first="106" last="114">
+      <title>Caspase-1 engages full-length Gasdermin D through two distinct interfaces that mediate caspase recruitment and substrate cleavage.</title>
+      <authorList>
+        <person name="Liu Z."/>
+        <person name="Wang C."/>
+        <person name="Yang J."/>
+        <person name="Chen Y."/>
+        <person name="Zhou B."/>
+        <person name="Abbott D.W."/>
+        <person name="Xiao T.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="32553275"/>
+      <dbReference type="DOI" id="10.1016/j.immuni.2020.06.007"/>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (3.40 ANGSTROMS) OF 120-303 AND 317-404 IN COMPLEX WITH GSDMD</scope>
+    <scope>FUNCTION</scope>
+    <scope>SUBUNIT</scope>
+    <scope>MUTAGENESIS OF CYS-285; TRP-294; ILE-318 AND LYS-320</scope>
+  </reference>
+  <reference evidence="37" key="30">
+    <citation type="journal article" date="2021" name="Nat. Commun." volume="12" first="189" last="189">
+      <title>Mechanism of filament formation in UPA-promoted CARD8 and NLRP1 inflammasomes.</title>
+      <authorList>
+        <person name="Robert Hollingsworth L."/>
+        <person name="David L."/>
+        <person name="Li Y."/>
+        <person name="Griswold A.R."/>
+        <person name="Ruan J."/>
+        <person name="Sharif H."/>
+        <person name="Fontana P."/>
+        <person name="Orth-He E.L."/>
+        <person name="Fu T.M."/>
+        <person name="Bachovchin D.A."/>
+        <person name="Wu H."/>
+      </authorList>
+      <dbReference type="PubMed" id="33420033"/>
+      <dbReference type="DOI" id="10.1038/s41467-020-20320-y"/>
+    </citation>
+    <scope>STRUCTURE BY ELECTRON MICROSCOPY (3.90 ANGSTROMS) OF 2-86 IN COMPLEX WITH PYCARD</scope>
+    <scope>INTERACTION WITH PYCARD</scope>
+  </reference>
+  <comment type="function">
+    <text evidence="6 8 9 12 13 14 15 18 19 20 21">Thiol protease involved in a variety of inflammatory processes by proteolytically cleaving other proteins, such as the precursors of the inflammatory cytokines interleukin-1 beta (IL1B) and interleukin 18 (IL18) as well as the pyroptosis inducer Gasdermin-D (GSDMD), into active mature peptides (PubMed:15326478, PubMed:1574116, PubMed:7876192, PubMed:15498465, PubMed:26375003, PubMed:32051255). Plays a key role in cell immunity as an inflammatory response initiator: once activated through formation of an inflammasome complex, it initiates a pro-inflammatory response through the cleavage of the two inflammatory cytokines IL1B and IL18, releasing the mature cytokines which are involved in a variety of inflammatory processes (PubMed:1574116, PubMed:7876192, PubMed:15498465, PubMed:15326478, PubMed:32051255). Cleaves a tetrapeptide after an Asp residue at position P1 (PubMed:1574116, PubMed:7876192, PubMed:15498465). Also initiates pyroptosis, a programmed lytic cell death pathway, through cleavage of GSDMD (PubMed:26375003). In contrast to cleavage of interleukins IL1B and IL1B, recognition and cleavage of GSDMD is not strictly dependent on the consensus cleavage site but depends on an exosite interface on CASP1 that recognizes and binds the Gasdermin-D, C-terminal (GSDMD-CT) part (PubMed:32051255, PubMed:32109412, PubMed:32553275). Cleaves and activates CASP7 in response to bacterial infection, promoting plasma membrane repair (PubMed:22464733). Upon inflammasome activation, during DNA virus infection but not RNA virus challenge, controls antiviral immunity through the cleavage of CGAS, rendering it inactive (PubMed:28314590). In apoptotic cells, cleaves SPHK2 which is released from cells and remains enzymatically active extracellularly (PubMed:20197547).</text>
+  </comment>
+  <comment type="function">
+    <molecule>Isoform Delta</molecule>
+    <text evidence="21">Apoptosis inactive.</text>
+  </comment>
+  <comment type="function">
+    <molecule>Isoform Epsilon</molecule>
+    <text evidence="21">Apoptosis inactive.</text>
+  </comment>
+  <comment type="catalytic activity">
+    <reaction evidence="9 13">
+      <text>Strict requirement for an Asp residue at position P1 and has a preferred cleavage sequence of Tyr-Val-Ala-Asp-|-.</text>
+      <dbReference type="EC" id="3.4.22.36"/>
+    </reaction>
+  </comment>
+  <comment type="activity regulation">
+    <text evidence="4">(Microbial infection) Specifically inhibited by the cowpox virus Crma protein.</text>
+  </comment>
+  <comment type="subunit">
+    <text evidence="1 3 5 7 10 17 18 19 20 22 23">Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit (PubMed:8044845, PubMed:9987822, PubMed:32109412, PubMed:32553275). May be a component of the inflammasome, a protein complex which also includes PYCARD, CARD8 and NLRP2 and whose function would be the activation of pro-inflammatory caspases (PubMed:15030775, PubMed:33420033). Component of the AIM2 PANoptosome complex, a multiprotein complex that drives inflammatory cell death (PANoptosis) (By similarity). Interacts with CARD8; interacts with the released C-terminus of CARD8 which forms an inflammasome and directly activates CASP1 to promote pyroptosis (PubMed:32051255). Both the p10 and p20 subunits interact with MEFV (PubMed:16785446). Interacts with CARD17P/INCA and CARD18 (PubMed:15383541, PubMed:11051551). Interacts with SERPINB1; this interaction regulates CASP1 activity (PubMed:30692621).</text>
+  </comment>
+  <comment type="subunit">
+    <molecule>Caspase-1 subunit p20</molecule>
+    <text evidence="19 20 21 22">Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit (PubMed:8044845, PubMed:32109412, PubMed:32553275). Can form a heterodimer with isoform epsilon which then has an inhibitory effect (PubMed:7876192).</text>
+  </comment>
+  <comment type="subunit">
+    <molecule>Caspase-1 subunit p10</molecule>
+    <text evidence="19 20 22">Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit.</text>
+  </comment>
+  <comment type="subunit">
+    <molecule>Isoform Epsilon</molecule>
+    <text evidence="21">Can form a heterodimer with Caspase-1 subunit p20 which then has an inhibitory effect.</text>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-16203934">
+      <id>Q5XLA6</id>
+      <label>CARD17</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-16203975">
+      <id>P57730</id>
+      <label>CARD18</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+      <label>CASP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>2</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-977447">
+      <id>P09038</id>
+      <label>FGF2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>2</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-2798865">
+      <id>P57764</id>
+      <label>GSDMD</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-1749782">
+      <id>P01583</id>
+      <label>IL1A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-7644532">
+      <id>O15553</id>
+      <label>MEFV</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>2</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-15588296">
+      <id>O15553-2</id>
+      <label>MEFV</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-1222527">
+      <id>Q9NPP4</id>
+      <label>NLRC4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-1220518">
+      <id>Q9C000</id>
+      <label>NLRP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-7445625">
+      <id>Q9HC29</id>
+      <label>NOD2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-751215">
+      <id>Q9ULZ3</id>
+      <label>PYCARD</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>10</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-528654">
+      <id>P58753-2</id>
+      <label>TIRAP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>5</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-516667">
+      <id>P29466</id>
+    </interactant>
+    <interactant intactId="EBI-2107455">
+      <id>Q08AM6</id>
+      <label>VAC14</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-77613">
+      <id>P05067</id>
+      <label>APP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-946046">
+      <id>P54252</id>
+      <label>ATXN3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>9</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-718504">
+      <id>Q13867</id>
+      <label>BLMH</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-744302">
+      <id>P14136</id>
+      <label>GFAP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-466029">
+      <id>P42858</id>
+      <label>HTT</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-12345753">
+      <id>Q13387-4</id>
+      <label>MAPK8IP2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-9090282">
+      <id>P27986-2</id>
+      <label>PIK3R1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-2865290">
+      <id>O14494</id>
+      <label>PLPP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-21251460">
+      <id>O60260-5</id>
+      <label>PRKN</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>6</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-2010251">
+      <id>P49810</id>
+      <label>PSEN2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-347161">
+      <id>P84022</id>
+      <label>SMAD3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-25832057">
+      <id>Q9BX74</id>
+      <label>TM2D1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-12117154">
+      <id>O60784-2</id>
+      <label>TOM1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-2107455">
+      <id>Q08AM6</id>
+      <label>VAC14</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-11141397">
+      <id>Q9UBQ0-2</id>
+      <label>VPS29</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-12248206">
+      <id>P29466-3</id>
+    </interactant>
+    <interactant intactId="EBI-720609">
+      <id>O76024</id>
+      <label>WFS1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-1749839">
+      <id>PRO_0000004522</id>
+    </interactant>
+    <interactant intactId="EBI-1749782">
+      <id>P01583</id>
+      <label>IL1A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="subcellular location">
+    <subcellularLocation>
+      <location evidence="12">Cytoplasm</location>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="12">Cell membrane</location>
+    </subcellularLocation>
+  </comment>
+  <comment type="alternative products">
+    <event type="alternative splicing"/>
+    <isoform>
+      <id>P29466-1</id>
+      <name>Alpha</name>
+      <sequence type="displayed"/>
+    </isoform>
+    <isoform>
+      <id>P29466-2</id>
+      <name>Beta</name>
+      <sequence type="described" ref="VSP_000798"/>
+    </isoform>
+    <isoform>
+      <id>P29466-3</id>
+      <name>Gamma</name>
+      <sequence type="described" ref="VSP_000799"/>
+    </isoform>
+    <isoform>
+      <id>P29466-4</id>
+      <name>Delta</name>
+      <sequence type="described" ref="VSP_000799 VSP_000800"/>
+    </isoform>
+    <isoform>
+      <id>P29466-5</id>
+      <name>Epsilon</name>
+      <sequence type="described" ref="VSP_000797"/>
+    </isoform>
+    <text>Additional isoforms seem to exist.</text>
+  </comment>
+  <comment type="tissue specificity">
+    <text evidence="8">Expressed in larger amounts in spleen and lung. Detected in liver, heart, small intestine, colon, thymus, prostate, skeletal muscle, peripheral blood leukocytes, kidney and testis. No expression in the brain.</text>
+  </comment>
+  <comment type="induction">
+    <text evidence="11">Transcription and translation induced by M.tuberculosis and a number of different M.tuberculosis components; EsxA is the most potent activator tested (at protein level) (PubMed:20148899).</text>
+  </comment>
+  <comment type="PTM">
+    <text evidence="19 22">The two subunits are derived from the precursor sequence by an autocatalytic mechanism.</text>
+  </comment>
+  <comment type="PTM">
+    <text evidence="16">Ubiquitinated via 'Lys-11'-linked polyubiquitination. Deubiquitinated by USP8.</text>
+  </comment>
+  <comment type="PTM">
+    <text evidence="18">Cleavage in the interdomain linker region is required to induce pyroptosis.</text>
+  </comment>
+  <comment type="similarity">
+    <text evidence="30">Belongs to the peptidase C14A family.</text>
+  </comment>
+  <comment type="sequence caution" evidence="30">
+    <conflict type="erroneous initiation">
+      <sequence resource="EMBL-CDS" id="AAT72297" version="1"/>
+    </conflict>
+    <text>Truncated N-terminus.</text>
+  </comment>
+  <comment type="sequence caution" evidence="30">
+    <conflict type="miscellaneous discrepancy">
+      <sequence resource="EMBL-CDS" id="AAT72297" version="1"/>
+    </conflict>
+    <text>Probable cloning artifact.</text>
+  </comment>
+  <comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+    <link uri="http://atlasgeneticsoncology.org/Genes/CASP1ID145ch11q22.html"/>
+  </comment>
+  <dbReference type="EC" id="3.4.22.36" evidence="9"/>
+  <dbReference type="EMBL" id="X65019">
+    <property type="protein sequence ID" value="CAA46153.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="M87507">
+    <property type="protein sequence ID" value="AAA66942.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="U13697">
+    <property type="protein sequence ID" value="AAC50107.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="U13698">
+    <property type="protein sequence ID" value="AAC50108.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="U13699">
+    <property type="protein sequence ID" value="AAC50109.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="U13700">
+    <property type="protein sequence ID" value="AAC50110.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AK223503">
+    <property type="protein sequence ID" value="BAD97223.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AP001153">
+    <property type="status" value="NOT_ANNOTATED_CDS"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC041689">
+    <property type="protein sequence ID" value="AAH41689.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC062327">
+    <property type="protein sequence ID" value="AAH62327.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AY660536">
+    <property type="protein sequence ID" value="AAT72297.1"/>
+    <property type="status" value="ALT_SEQ"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS53704.1">
+    <molecule id="P29466-3"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS8329.1">
+    <molecule id="P29466-2"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS8330.1">
+    <molecule id="P29466-1"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS8331.1">
+    <molecule id="P29466-4"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS8332.1">
+    <molecule id="P29466-5"/>
+  </dbReference>
+  <dbReference type="PIR" id="A54263">
+    <property type="entry name" value="A42677"/>
+  </dbReference>
+  <dbReference type="PIR" id="A56084">
+    <property type="entry name" value="A56084"/>
+  </dbReference>
+  <dbReference type="PIR" id="B56084">
+    <property type="entry name" value="B56084"/>
+  </dbReference>
+  <dbReference type="PIR" id="C56084">
+    <property type="entry name" value="C56084"/>
+  </dbReference>
+  <dbReference type="PIR" id="D56084">
+    <property type="entry name" value="D56084"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001214.1">
+    <molecule id="P29466-2"/>
+    <property type="nucleotide sequence ID" value="NM_001223.4"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001244047.1">
+    <molecule id="P29466-1"/>
+    <property type="nucleotide sequence ID" value="NM_001257118.2"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001244048.1">
+    <molecule id="P29466-2"/>
+    <property type="nucleotide sequence ID" value="NM_001257119.2"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_150634.1">
+    <molecule id="P29466-1"/>
+    <property type="nucleotide sequence ID" value="NM_033292.3"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_150635.1">
+    <molecule id="P29466-3"/>
+    <property type="nucleotide sequence ID" value="NM_033293.3"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_150636.1">
+    <molecule id="P29466-4"/>
+    <property type="nucleotide sequence ID" value="NM_033294.3"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_150637.1">
+    <molecule id="P29466-5"/>
+    <property type="nucleotide sequence ID" value="NM_033295.3"/>
+  </dbReference>
+  <dbReference type="PDB" id="1BMQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A=131-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1IBC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.73 A"/>
+    <property type="chains" value="A=104-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1ICE">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="A=131-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWK">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWM">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.70 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWN">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWO">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWW">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.85 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SC1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SC3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SC4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2FQQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.30 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H48">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H4W">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H4Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H51">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H54">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HBQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HBR">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HBY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HBZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="3D6F">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="3D6H">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="3D6M">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="3E4C">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.05 A"/>
+    <property type="chains" value="A/B=104-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="3NS7">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="A=136-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="5FNA">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.80 A"/>
+    <property type="chains" value="A/B/C/D/E/F/G/H=2-86"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MMV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.15 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MTK">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.53 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="6BZ9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="6F6R">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=118-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="6KN0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.79 A"/>
+    <property type="chains" value="A/C=131-297, B/D=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="6PZP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.94 A"/>
+    <property type="chains" value="A=120-297, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="6VIE">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="A=120-303, B=317-404"/>
+  </dbReference>
+  <dbReference type="PDB" id="7KEU">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.90 A"/>
+    <property type="chains" value="E/F/G/H=2-86"/>
+  </dbReference>
+  <dbReference type="PDBsum" id="1BMQ"/>
+  <dbReference type="PDBsum" id="1IBC"/>
+  <dbReference type="PDBsum" id="1ICE"/>
+  <dbReference type="PDBsum" id="1RWK"/>
+  <dbReference type="PDBsum" id="1RWM"/>
+  <dbReference type="PDBsum" id="1RWN"/>
+  <dbReference type="PDBsum" id="1RWO"/>
+  <dbReference type="PDBsum" id="1RWP"/>
+  <dbReference type="PDBsum" id="1RWV"/>
+  <dbReference type="PDBsum" id="1RWW"/>
+  <dbReference type="PDBsum" id="1RWX"/>
+  <dbReference type="PDBsum" id="1SC1"/>
+  <dbReference type="PDBsum" id="1SC3"/>
+  <dbReference type="PDBsum" id="1SC4"/>
+  <dbReference type="PDBsum" id="2FQQ"/>
+  <dbReference type="PDBsum" id="2H48"/>
+  <dbReference type="PDBsum" id="2H4W"/>
+  <dbReference type="PDBsum" id="2H4Y"/>
+  <dbReference type="PDBsum" id="2H51"/>
+  <dbReference type="PDBsum" id="2H54"/>
+  <dbReference type="PDBsum" id="2HBQ"/>
+  <dbReference type="PDBsum" id="2HBR"/>
+  <dbReference type="PDBsum" id="2HBY"/>
+  <dbReference type="PDBsum" id="2HBZ"/>
+  <dbReference type="PDBsum" id="3D6F"/>
+  <dbReference type="PDBsum" id="3D6H"/>
+  <dbReference type="PDBsum" id="3D6M"/>
+  <dbReference type="PDBsum" id="3E4C"/>
+  <dbReference type="PDBsum" id="3NS7"/>
+  <dbReference type="PDBsum" id="5FNA"/>
+  <dbReference type="PDBsum" id="5MMV"/>
+  <dbReference type="PDBsum" id="5MTK"/>
+  <dbReference type="PDBsum" id="6BZ9"/>
+  <dbReference type="PDBsum" id="6F6R"/>
+  <dbReference type="PDBsum" id="6KN0"/>
+  <dbReference type="PDBsum" id="6PZP"/>
+  <dbReference type="PDBsum" id="6VIE"/>
+  <dbReference type="PDBsum" id="7KEU"/>
+  <dbReference type="AlphaFoldDB" id="P29466"/>
+  <dbReference type="SMR" id="P29466"/>
+  <dbReference type="BioGRID" id="107284">
+    <property type="interactions" value="70"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-4082">
+    <property type="entry name" value="NLRP1 inflammasome"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-4141">
+    <property type="entry name" value="NLRP3 inflammasome"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-4142">
+    <property type="entry name" value="AIM2 inflammasome"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-4143">
+    <property type="entry name" value="Pyrin inflammasome"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-4144">
+    <property type="entry name" value="NLRC4 inflammasome"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-952">
+    <property type="entry name" value="Caspase-1 complex"/>
+  </dbReference>
+  <dbReference type="CORUM" id="P29466"/>
+  <dbReference type="DIP" id="DIP-175N"/>
+  <dbReference type="IntAct" id="P29466">
+    <property type="interactions" value="43"/>
+  </dbReference>
+  <dbReference type="MINT" id="P29466"/>
+  <dbReference type="STRING" id="9606.ENSP00000433138"/>
+  <dbReference type="BindingDB" id="P29466"/>
+  <dbReference type="ChEMBL" id="CHEMBL4801"/>
+  <dbReference type="DrugBank" id="DB07733">
+    <property type="generic name" value="1-METHYL-3-TRIFLUOROMETHYL-1H-THIENO[2,3-C]PYRAZOLE-5-CARBOXYLIC ACID (2-MERCAPTO-ETHYL)-AMIDE"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB07916">
+    <property type="generic name" value="3-{6-[(8-HYDROXY-QUINOLINE-2-CARBONYL)-AMINO]-2-THIOPHEN-2-YL-HEXANOYLAMINO}-4-OXO-BUTYRI ACID"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB00945">
+    <property type="generic name" value="Acetylsalicylic acid"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB05408">
+    <property type="generic name" value="Emricasan"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB05301">
+    <property type="generic name" value="LAX-101"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB01017">
+    <property type="generic name" value="Minocycline"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB04875">
+    <property type="generic name" value="Pralnacasan"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB05507">
+    <property type="generic name" value="VX-765"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB07744">
+    <property type="generic name" value="Z-Val-Ala-Asp fluoromethyl ketone"/>
+  </dbReference>
+  <dbReference type="DrugCentral" id="P29466"/>
+  <dbReference type="GuidetoPHARMACOLOGY" id="1617"/>
+  <dbReference type="MEROPS" id="C14.001"/>
+  <dbReference type="iPTMnet" id="P29466"/>
+  <dbReference type="PhosphoSitePlus" id="P29466"/>
+  <dbReference type="BioMuta" id="CASP1"/>
+  <dbReference type="DMDM" id="266321"/>
+  <dbReference type="EPD" id="P29466"/>
+  <dbReference type="jPOST" id="P29466"/>
+  <dbReference type="MassIVE" id="P29466"/>
+  <dbReference type="MaxQB" id="P29466"/>
+  <dbReference type="PaxDb" id="P29466"/>
+  <dbReference type="PeptideAtlas" id="P29466"/>
+  <dbReference type="ProteomicsDB" id="54571">
+    <molecule id="P29466-1"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="54572">
+    <molecule id="P29466-2"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="54573">
+    <molecule id="P29466-3"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="54574">
+    <molecule id="P29466-4"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="54575">
+    <molecule id="P29466-5"/>
+  </dbReference>
+  <dbReference type="Antibodypedia" id="1075">
+    <property type="antibodies" value="1138 antibodies from 46 providers"/>
+  </dbReference>
+  <dbReference type="DNASU" id="834"/>
+  <dbReference type="Ensembl" id="ENST00000436863.7">
+    <molecule id="P29466-1"/>
+    <property type="protein sequence ID" value="ENSP00000410076.3"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000525825.6">
+    <molecule id="P29466-2"/>
+    <property type="protein sequence ID" value="ENSP00000434779.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000526568.5">
+    <molecule id="P29466-3"/>
+    <property type="protein sequence ID" value="ENSP00000434250.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000531166.5">
+    <molecule id="P29466-5"/>
+    <property type="protein sequence ID" value="ENSP00000434303.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000533400.6">
+    <molecule id="P29466-1"/>
+    <property type="protein sequence ID" value="ENSP00000433138.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000534497.5">
+    <molecule id="P29466-4"/>
+    <property type="protein sequence ID" value="ENSP00000436875.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000695719.1">
+    <molecule id="P29466-2"/>
+    <property type="protein sequence ID" value="ENSP00000512117.1"/>
+    <property type="gene ID" value="ENSG00000137752.25"/>
+  </dbReference>
+  <dbReference type="GeneID" id="834"/>
+  <dbReference type="KEGG" id="hsa:834"/>
+  <dbReference type="MANE-Select" id="ENST00000533400.6">
+    <property type="protein sequence ID" value="ENSP00000433138.1"/>
+    <property type="RefSeq nucleotide sequence ID" value="NM_001257118.3"/>
+    <property type="RefSeq protein sequence ID" value="NP_001244047.1"/>
+  </dbReference>
+  <dbReference type="UCSC" id="uc001pig.5">
+    <molecule id="P29466-1"/>
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="AGR" id="HGNC:1499"/>
+  <dbReference type="CTD" id="834"/>
+  <dbReference type="DisGeNET" id="834"/>
+  <dbReference type="GeneCards" id="CASP1"/>
+  <dbReference type="HGNC" id="HGNC:1499">
+    <property type="gene designation" value="CASP1"/>
+  </dbReference>
+  <dbReference type="HPA" id="ENSG00000137752">
+    <property type="expression patterns" value="Tissue enhanced (intestine, lymphoid tissue)"/>
+  </dbReference>
+  <dbReference type="MIM" id="147678">
+    <property type="type" value="gene"/>
+  </dbReference>
+  <dbReference type="neXtProt" id="NX_P29466"/>
+  <dbReference type="OpenTargets" id="ENSG00000137752"/>
+  <dbReference type="PharmGKB" id="PA26083"/>
+  <dbReference type="VEuPathDB" id="HostDB:ENSG00000137752"/>
+  <dbReference type="eggNOG" id="KOG3573">
+    <property type="taxonomic scope" value="Eukaryota"/>
+  </dbReference>
+  <dbReference type="GeneTree" id="ENSGT00940000159114"/>
+  <dbReference type="HOGENOM" id="CLU_036904_0_0_1"/>
+  <dbReference type="InParanoid" id="P29466"/>
+  <dbReference type="OMA" id="NTENCKA"/>
+  <dbReference type="OrthoDB" id="1327703at2759"/>
+  <dbReference type="PhylomeDB" id="P29466"/>
+  <dbReference type="TreeFam" id="TF102023"/>
+  <dbReference type="BRENDA" id="3.4.22.36">
+    <property type="organism ID" value="2681"/>
+  </dbReference>
+  <dbReference type="PathwayCommons" id="P29466"/>
+  <dbReference type="Reactome" id="R-HSA-168638">
+    <property type="pathway name" value="NOD1/2 Signaling Pathway"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-448706">
+    <property type="pathway name" value="Interleukin-1 processing"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-5620971">
+    <property type="pathway name" value="Pyroptosis"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-6803207">
+    <property type="pathway name" value="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-844456">
+    <property type="pathway name" value="The NLRP3 inflammasome"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-844615">
+    <property type="pathway name" value="The AIM2 inflammasome"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-844623">
+    <property type="pathway name" value="The IPAF inflammasome"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-9008059">
+    <property type="pathway name" value="Interleukin-37 signaling"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-9660826">
+    <property type="pathway name" value="Purinergic signaling in leishmaniasis infection"/>
+  </dbReference>
+  <dbReference type="SABIO-RK" id="P29466"/>
+  <dbReference type="SignaLink" id="P29466"/>
+  <dbReference type="SIGNOR" id="P29466"/>
+  <dbReference type="BioGRID-ORCS" id="834">
+    <property type="hits" value="7 hits in 1069 CRISPR screens"/>
+  </dbReference>
+  <dbReference type="ChiTaRS" id="CASP1">
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="EvolutionaryTrace" id="P29466"/>
+  <dbReference type="GeneWiki" id="Caspase_1"/>
+  <dbReference type="GenomeRNAi" id="834"/>
+  <dbReference type="Pharos" id="P29466">
+    <property type="development level" value="Tchem"/>
+  </dbReference>
+  <dbReference type="PRO" id="PR:P29466"/>
+  <dbReference type="Proteomes" id="UP000005640">
+    <property type="component" value="Chromosome 11"/>
+  </dbReference>
+  <dbReference type="RNAct" id="P29466">
+    <property type="molecule type" value="protein"/>
+  </dbReference>
+  <dbReference type="Bgee" id="ENSG00000137752">
+    <property type="expression patterns" value="Expressed in monocyte and 179 other tissues"/>
+  </dbReference>
+  <dbReference type="ExpressionAtlas" id="P29466">
+    <property type="expression patterns" value="baseline and differential"/>
+  </dbReference>
+  <dbReference type="Genevisible" id="P29466">
+    <property type="organism ID" value="HS"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0097169">
+    <property type="term" value="C:AIM2 inflammasome complex"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0008303">
+    <property type="term" value="C:caspase complex"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005737">
+    <property type="term" value="C:cytoplasm"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005829">
+    <property type="term" value="C:cytosol"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005615">
+    <property type="term" value="C:extracellular space"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0061702">
+    <property type="term" value="C:inflammasome complex"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0072557">
+    <property type="term" value="C:IPAF inflammasome complex"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005874">
+    <property type="term" value="C:microtubule"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0072558">
+    <property type="term" value="C:NLRP1 inflammasome complex"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0072559">
+    <property type="term" value="C:NLRP3 inflammasome complex"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005730">
+    <property type="term" value="C:nucleolus"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005886">
+    <property type="term" value="C:plasma membrane"/>
+    <property type="evidence" value="ECO:0007669"/>
+    <property type="project" value="UniProtKB-SubCell"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0097179">
+    <property type="term" value="C:protease inhibitor complex"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0032991">
+    <property type="term" value="C:protein-containing complex"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050700">
+    <property type="term" value="F:CARD domain binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0008656">
+    <property type="term" value="F:cysteine-type endopeptidase activator activity involved in apoptotic process"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ProtInc"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0004197">
+    <property type="term" value="F:cysteine-type endopeptidase activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0097199">
+    <property type="term" value="F:cysteine-type endopeptidase activity involved in apoptotic signaling pathway"/>
+    <property type="evidence" value="ECO:0000318"/>
+    <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0004175">
+    <property type="term" value="F:endopeptidase activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042802">
+    <property type="term" value="F:identical protein binding"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0019900">
+    <property type="term" value="F:kinase binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006915">
+    <property type="term" value="P:apoptotic process"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ProtInc"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071222">
+    <property type="term" value="P:cellular response to lipopolysaccharide"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071260">
+    <property type="term" value="P:cellular response to mechanical stimulus"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071310">
+    <property type="term" value="P:cellular response to organic substance"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071346">
+    <property type="term" value="P:cellular response to type II interferon"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0140447">
+    <property type="term" value="P:cytokine precursor processing"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0051607">
+    <property type="term" value="P:defense response to virus"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046456">
+    <property type="term" value="P:icosanoid biosynthetic process"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007231">
+    <property type="term" value="P:osmosensory signaling pathway"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0002221">
+    <property type="term" value="P:pattern recognition receptor signaling pathway"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043280">
+    <property type="term" value="P:positive regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043123">
+    <property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050729">
+    <property type="term" value="P:positive regulation of inflammatory response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0032731">
+    <property type="term" value="P:positive regulation of interleukin-1 beta production"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043525">
+    <property type="term" value="P:positive regulation of neuron apoptotic process"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0090200">
+    <property type="term" value="P:positive regulation of release of cytochrome c from mitochondria"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="ComplexPortal"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1903265">
+    <property type="term" value="P:positive regulation of tumor necrosis factor-mediated signaling pathway"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0016540">
+    <property type="term" value="P:protein autoprocessing"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006508">
+    <property type="term" value="P:proteolysis"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0070269">
+    <property type="term" value="P:pyroptosis"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042981">
+    <property type="term" value="P:regulation of apoptotic process"/>
+    <property type="evidence" value="ECO:0007669"/>
+    <property type="project" value="InterPro"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050727">
+    <property type="term" value="P:regulation of inflammatory response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007165">
+    <property type="term" value="P:signal transduction"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ProtInc"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0140448">
+    <property type="term" value="P:signaling receptor ligand precursor processing"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="CDD" id="cd00032">
+    <property type="entry name" value="CASc"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="1.10.533.10">
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR001315">
+    <property type="entry name" value="CARD"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR029030">
+    <property type="entry name" value="Caspase-like_dom_sf"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR033139">
+    <property type="entry name" value="Caspase_cys_AS"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR016129">
+    <property type="entry name" value="Caspase_his_AS"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR011029">
+    <property type="entry name" value="DEATH-like_dom_sf"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR002398">
+    <property type="entry name" value="Pept_C14"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR002138">
+    <property type="entry name" value="Pept_C14_p10"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR001309">
+    <property type="entry name" value="Pept_C14_p20"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR015917">
+    <property type="entry name" value="Pept_C14A"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR10454">
+    <property type="entry name" value="CASPASE"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF00619">
+    <property type="entry name" value="CARD"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PRINTS" id="PR00376">
+    <property type="entry name" value="IL1BCENZYME"/>
+  </dbReference>
+  <dbReference type="SMART" id="SM00114">
+    <property type="entry name" value="CARD"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SMART" id="SM00115">
+    <property type="entry name" value="CASc"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SUPFAM" id="SSF52129">
+    <property type="entry name" value="Caspase-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SUPFAM" id="SSF47986">
+    <property type="entry name" value="DEATH domain"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS50209">
+    <property type="entry name" value="CARD"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS01122">
+    <property type="entry name" value="CASPASE_CYS"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS01121">
+    <property type="entry name" value="CASPASE_HIS"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS50207">
+    <property type="entry name" value="CASPASE_P10"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS50208">
+    <property type="entry name" value="CASPASE_P20"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <proteinExistence type="evidence at protein level"/>
+  <keyword id="KW-0002">3D-structure</keyword>
+  <keyword id="KW-0025">Alternative splicing</keyword>
+  <keyword id="KW-0053">Apoptosis</keyword>
+  <keyword id="KW-1003">Cell membrane</keyword>
+  <keyword id="KW-0963">Cytoplasm</keyword>
+  <keyword id="KW-0903">Direct protein sequencing</keyword>
+  <keyword id="KW-0378">Hydrolase</keyword>
+  <keyword id="KW-1017">Isopeptide bond</keyword>
+  <keyword id="KW-0472">Membrane</keyword>
+  <keyword id="KW-0597">Phosphoprotein</keyword>
+  <keyword id="KW-0645">Protease</keyword>
+  <keyword id="KW-1185">Reference proteome</keyword>
+  <keyword id="KW-0788">Thiol protease</keyword>
+  <keyword id="KW-0832">Ubl conjugation</keyword>
+  <keyword id="KW-0865">Zymogen</keyword>
+  <feature type="propeptide" id="PRO_0000004521">
+    <location>
+      <begin position="1"/>
+      <end position="119"/>
+    </location>
+  </feature>
+  <feature type="chain" id="PRO_0000004522" description="Caspase-1 subunit p20" evidence="32 33 34">
+    <location>
+      <begin position="120"/>
+      <end position="297"/>
+    </location>
+  </feature>
+  <feature type="propeptide" id="PRO_0000004523" description="Interdomain linker" evidence="27">
+    <location>
+      <begin position="298"/>
+      <end position="316"/>
+    </location>
+  </feature>
+  <feature type="chain" id="PRO_0000004524" description="Caspase-1 subunit p10" evidence="32 33 34">
+    <location>
+      <begin position="317"/>
+      <end position="404"/>
+    </location>
+  </feature>
+  <feature type="domain" description="CARD" evidence="2">
+    <location>
+      <begin position="1"/>
+      <end position="91"/>
+    </location>
+  </feature>
+  <feature type="active site" evidence="9">
+    <location>
+      <position position="237"/>
+    </location>
+  </feature>
+  <feature type="active site" evidence="9 31">
+    <location>
+      <position position="285"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="Phosphoserine" evidence="1">
+    <location>
+      <position position="302"/>
+    </location>
+  </feature>
+  <feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="16">
+    <location>
+      <position position="134"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_000797" description="In isoform Epsilon." evidence="28">
+    <location>
+      <begin position="20"/>
+      <end position="335"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_000799" description="In isoform Gamma and isoform Delta." evidence="25 28">
+    <location>
+      <begin position="20"/>
+      <end position="112"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_000798" description="In isoform Beta." evidence="25 28">
+    <location>
+      <begin position="92"/>
+      <end position="112"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_000800" description="In isoform Delta." evidence="28">
+    <location>
+      <begin position="288"/>
+      <end position="335"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_048615" description="In dbSNP:rs1042743.">
+    <original>R</original>
+    <variation>H</variation>
+    <location>
+      <position position="15"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Loss of protease activity. Loss of SPHK2 cleavage and release in apoptotic cells." evidence="8 12 18 19 20">
+    <original>C</original>
+    <variation>A</variation>
+    <variation>S</variation>
+    <location>
+      <position position="285"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Mediates autoprocessing but is unable to interact with Gasdermin-D (GSDMD) and mediate its cleavage." evidence="19 20">
+    <original>W</original>
+    <variation>A</variation>
+    <location>
+      <position position="294"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="In IDL(uncl); abolished cleavage in the interdomain region; when associated with 315-N-N-316." evidence="18">
+    <original>D</original>
+    <variation>N</variation>
+    <location>
+      <position position="297"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="In IDL(uncl); abolished cleavage in the interdomain region; when associated with N-297." evidence="18">
+    <original>DD</original>
+    <variation>NN</variation>
+    <location>
+      <begin position="315"/>
+      <end position="316"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Mediates autoprocessing but is unable to interact with Gasdermin-D (GSDMD) and mediate its cleavage." evidence="19 20">
+    <original>I</original>
+    <variation>N</variation>
+    <location>
+      <position position="318"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Abolishes cleavage of Gasdermin-D (GSDMD)." evidence="20">
+    <original>K</original>
+    <variation>A</variation>
+    <location>
+      <position position="320"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 4; BAD97223." evidence="30" ref="4">
+    <original>K</original>
+    <variation>R</variation>
+    <location>
+      <position position="319"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 4; BAD97223." evidence="30" ref="4">
+    <original>P</original>
+    <variation>L</variation>
+    <location>
+      <position position="402"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="42">
+    <location>
+      <begin position="129"/>
+      <end position="132"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="138"/>
+      <end position="147"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="149"/>
+      <end position="151"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="42">
+    <location>
+      <begin position="158"/>
+      <end position="160"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="164"/>
+      <end position="169"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="174"/>
+      <end position="176"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="182"/>
+      <end position="195"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="199"/>
+      <end position="205"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="208"/>
+      <end position="219"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="222"/>
+      <end position="226"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="230"/>
+      <end position="236"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="39">
+    <location>
+      <begin position="242"/>
+      <end position="244"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="250"/>
+      <end position="252"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="40">
+    <location>
+      <begin position="255"/>
+      <end position="257"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="258"/>
+      <end position="265"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="42">
+    <location>
+      <begin position="267"/>
+      <end position="269"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="271"/>
+      <end position="273"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="278"/>
+      <end position="284"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="286"/>
+      <end position="289"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="41">
+    <location>
+      <begin position="291"/>
+      <end position="298"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="41">
+    <location>
+      <begin position="316"/>
+      <end position="319"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="326"/>
+      <end position="333"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="340"/>
+      <end position="342"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="42">
+    <location>
+      <begin position="343"/>
+      <end position="345"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="348"/>
+      <end position="360"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="42">
+    <location>
+      <begin position="361"/>
+      <end position="363"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="42">
+    <location>
+      <begin position="366"/>
+      <end position="376"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="43">
+    <location>
+      <begin position="381"/>
+      <end position="383"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="42">
+    <location>
+      <begin position="388"/>
+      <end position="391"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="38">
+    <location>
+      <begin position="395"/>
+      <end position="397"/>
+    </location>
+  </feature>
+  <evidence type="ECO:0000250" key="1">
+    <source>
+      <dbReference type="UniProtKB" id="P29452"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000255" key="2">
+    <source>
+      <dbReference type="PROSITE-ProRule" id="PRU00046"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="3">
+    <source>
+      <dbReference type="PubMed" id="11051551"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="4">
+    <source>
+      <dbReference type="PubMed" id="1339309"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="5">
+    <source>
+      <dbReference type="PubMed" id="15030775"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="6">
+    <source>
+      <dbReference type="PubMed" id="15326478"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="7">
+    <source>
+      <dbReference type="PubMed" id="15383541"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="8">
+    <source>
+      <dbReference type="PubMed" id="15498465"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="9">
+    <source>
+      <dbReference type="PubMed" id="1574116"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="10">
+    <source>
+      <dbReference type="PubMed" id="16785446"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="11">
+    <source>
+      <dbReference type="PubMed" id="20148899"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="12">
+    <source>
+      <dbReference type="PubMed" id="20197547"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="13">
+    <source>
+      <dbReference type="PubMed" id="22464733"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="14">
+    <source>
+      <dbReference type="PubMed" id="26375003"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="15">
+    <source>
+      <dbReference type="PubMed" id="28314590"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="16">
+    <source>
+      <dbReference type="PubMed" id="30065070"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="17">
+    <source>
+      <dbReference type="PubMed" id="30692621"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="18">
+    <source>
+      <dbReference type="PubMed" id="32051255"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="19">
+    <source>
+      <dbReference type="PubMed" id="32109412"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="20">
+    <source>
+      <dbReference type="PubMed" id="32553275"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="21">
+    <source>
+      <dbReference type="PubMed" id="7876192"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="22">
+    <source>
+      <dbReference type="PubMed" id="8044845"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="23">
+    <source>
+      <dbReference type="PubMed" id="9987822"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="24">
+    <source>
+      <dbReference type="PubMed" id="11051551"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="25">
+    <source>
+      <dbReference type="PubMed" id="15489334"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="26">
+    <source>
+      <dbReference type="PubMed" id="1574116"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="27">
+    <source>
+      <dbReference type="PubMed" id="32051255"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="28">
+    <source>
+      <dbReference type="PubMed" id="7876192"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="29">
+    <source>
+      <dbReference type="PubMed" id="8044845"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="30"/>
+  <evidence type="ECO:0000305" key="31">
+    <source>
+      <dbReference type="PubMed" id="32051255"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="32">
+    <source>
+      <dbReference type="PubMed" id="32109412"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="33">
+    <source>
+      <dbReference type="PubMed" id="32553275"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="34">
+    <source>
+      <dbReference type="PubMed" id="8044845"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="35">
+    <source>
+      <dbReference type="PDB" id="6KN0"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="36">
+    <source>
+      <dbReference type="PDB" id="6VIE"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="37">
+    <source>
+      <dbReference type="PDB" id="7KEU"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="38">
+    <source>
+      <dbReference type="PDB" id="1RWM"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="39">
+    <source>
+      <dbReference type="PDB" id="1SC3"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="40">
+    <source>
+      <dbReference type="PDB" id="1SC4"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="41">
+    <source>
+      <dbReference type="PDB" id="3E4C"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="42">
+    <source>
+      <dbReference type="PDB" id="6BZ9"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="43">
+    <source>
+      <dbReference type="PDB" id="6F6R"/>
+    </source>
+  </evidence>
+  <sequence length="404" mass="45159" checksum="ABF33CF33CC71584" modified="1993-04-01" version="1" precursor="true">MADKVLKEKRKLFIRSMGEGTINGLLDELLQTRVLNKEEMEKVKRENATVMDKTRALIDSVIPKGAQACQICITYICEEDSYLAGTLGLSADQTSGNYLNMQDSQGVLSSFPAPQAVQDNPAMPTSSGSEGNVKLCSLEEAQRIWKQKSAEIYPIMDKSSRTRLALIICNEEFDSIPRRTGAEVDITGMTMLLQNLGYSVDVKKNLTASDMTTELEAFAHRPEHKTSDSTFLVFMSHGIREGICGKKHSEQVPDILQLNAIFNMLNTKNCPSLKDKPKVIIIQACRGDSPGVVWFKDSVGVSGNLSLPTTEEFEDDAIKKAHIEKDFIAFCSSTPDNVSWRHPTMGSVFIGRLIEHMQEYACSCDVEEIFRKVRFSFEQPDGRAQMPTTERVTLTRCFYLFPGH</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
